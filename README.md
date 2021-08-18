@@ -12,11 +12,9 @@
     
 2. Install Mongoos DB and run into your Machine 
 
-3. Then run `npm install`
+3. Install the client package `cd client` and run `npm install`
 
-4. Install the client package `cd client` and `npm install`
-
-5. Install the server package `cd server` and `npm install`
+5. Install the server package `cd server` and run `npm install`
 
 then back to base directory `code-challenge-answer` and start both the server and client simultaneously using `npm run dev` 
 
